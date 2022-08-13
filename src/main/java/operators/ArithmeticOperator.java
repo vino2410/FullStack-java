@@ -7,7 +7,7 @@ public class ArithmeticOperator {
 
 	      int b = 5; 
 	      int a = 10;
-
+        int v = 100;
 	      int c = b+a; 
 
 	      System.out.println(c);
