@@ -11,8 +11,8 @@ public class Variables
 	public static void main(String[] args) {
 		Variables obj=new Variables();
 		obj.use();
-		int c=10;//global variable
-		System.out.println(c);
+		int g=10;//global variable
+		System.out.println(g);
 		System.out.println(a);
 	}
 
